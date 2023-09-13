@@ -46,6 +46,7 @@ Give the value you want to convert -
 ```
 ### Currency Conversion Rates
 
+```
 The currency conversion rates used here are as follow:
 1 Indian Rupee (INR) = 0.01348 United States Dollar (USD)
 1 Chinese Yuan (CNY) = 0.148 United States Dollar (USD)
@@ -57,3 +58,4 @@ The currency conversion rates used here are as follow:
 1 Bangladeshi Taka (BDT) = 0.0117 United States Dollar (USD)
 1 Russian Ruble (RUB) = 0.0131 United States Dollar (USD)
 1 Mexican Peso (MXN) = 0.0541 United States Dollar (USD)
+```
